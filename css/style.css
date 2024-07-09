@@ -11,17 +11,17 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: #161110;
+    padding: 15px;
+    background-color: #181C23;
 }
 
 body{
-    background-color: #181C23;
+    background-color: #39393a;
 }
 
 a{
     text-decoration: none;
-    color: #ffffff;
-    padding: 10px;
+    color: #fff;
 }
 
 p{
@@ -29,7 +29,6 @@ p{
 }
 
 nav{
-    background-color: rgb(170, 46, 30);
-    padding: 20px;
-    margin: 5px;
+    display: flex;
+    gap: 20px;
 }
